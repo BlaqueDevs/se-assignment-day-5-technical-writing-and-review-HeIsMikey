@@ -36,6 +36,7 @@ Using plain language makes your writing clearer and more accessible to everyone.
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 
 *Answer*
+
 Simplifying terms clarifies complex concepts, making them easier to grasp. For example, replacing “quadratic equations” with “parabolic curves” helps students understand their shape and behavior better.
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
